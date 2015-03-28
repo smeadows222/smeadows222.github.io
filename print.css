@@ -1,0 +1,56 @@
+/* print.css */
+
+body {
+  font-family: "Lora";
+  font-size: 12pt;
+  color: #000000;
+    max-width: 8in;
+    margin: 0.1in;
+    pointer-events: none;
+    cursor: default;
+    padding: 0.5in;
+    border-style: solid;
+    border-color: #800080;
+    background-image: url("http://subtlepatterns.com/patterns/geometry2.png");
+}
+
+header {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: "EB Garamond";
+    color: #800080;
+}
+
+nav {
+    display: none;
+}
+
+#samples {
+display: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #000000;
+}
+
+a:visited {
+    color: #000000;
+}
+
+
+a:hover {
+    color: #000000;
+}
+
+a:active {
+    color: #000000;
+}
+
+
+

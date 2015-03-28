@@ -1,0 +1,27 @@
+/* web.css */
+
+body {
+  font-family: "Century Gothic";
+  font-size: 15px;
+  color: #000000;
+    max-width: 650px;
+    margin: 20px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #800080;
+    background-image: url("http://subtlepatterns.com/patterns/geometry2.png");
+    
+}
+
+header {
+    text-align: center;
+}
+
+h1,h2,h3 {
+    font-family: "EB Garamond";
+    color: #800080;
+}
+
+nav {
+    color: #0000ff;
+}
