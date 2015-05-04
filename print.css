@@ -1,7 +1,13 @@
 /* print.css */
+.top{
+ 
+    display: none; 
+     
+}
+
 
 body {
-  font-family: "Lora";
+  font-family:'Open Sans', sans-serif;
   font-size: 12pt;
   color: #000000;
     max-width: 8in;
@@ -9,9 +15,8 @@ body {
     pointer-events: none;
     cursor: default;
     padding: 0.5in;
-    border-style: solid;
-    border-color: #800080;
-    background-image: url("http://subtlepatterns.com/patterns/geometry2.png");
+    border-style: double;
+    border-color: #000000;
 }
 
 header {
@@ -19,8 +24,8 @@ header {
 }
 
 h1, h2, h3 {
-    font-family: "EB Garamond";
-    color: #800080;
+    font-family:'Raleway', sans-serif;
+    color: #000000;
 }
 
 nav {

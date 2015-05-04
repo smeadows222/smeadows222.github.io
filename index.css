@@ -1,0 +1,94 @@
+/* index.css */
+
+.top{
+    
+ background-color: #00FFFF;
+    height: 50px;
+    width: 692px;
+    margin-top: 60px;
+    margin-left: 29px;
+    float: top;
+    border-style:double;
+    border-color: #000000;
+    border-width: 5px;
+    
+    
+}
+
+nav{
+ 
+    margin-left: 250px;
+    margin-top: 20px;
+    font-family: "Helvetica";
+    text-decoration: none;
+    color: #000000;
+    float: left;
+    
+    
+    
+}
+
+.picture{
+    float: right;
+    height: 550px;
+    width: 450px;
+}
+
+.box{
+    
+ background-color: #00FFFF;
+    height: 400px;
+    width: 700px;
+    margin-left: 30px;
+    float: left;
+}
+
+.name{
+ 
+    margin-left: 40px;
+    margin-top: 30px;
+       
+}
+
+.story{
+ font-family:'Open Sans', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: #000000;
+    margin-left: 20px;
+    padding: 20px;
+    word-wrap: normal;
+    text-align: justify;
+    width: 600px;
+}
+
+.foot{
+ 
+    font-family: "Helvetica";
+    font-size: 15px;
+    color: #FFFFFF;
+    margin-left: 325px;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:150px;
+}
+
+h1{
+    text-align: center;
+   font-family: 'Raleway', sans-serif;
+   font-size: 40px;
+    color: #000000;
+}
+
+h2{
+ 
+   text-align: center;
+    font-family: 'Raleway', sans-serif;
+   font-size: 25px; 
+     color: #000000;
+}
+
+body{
+ background: black;   
+}

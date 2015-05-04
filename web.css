@@ -1,15 +1,27 @@
 /* web.css */
+.top{
+ 
+ 
+    margin-top: 20px;
+    font-family: "Helvetica";
+    text-decoration: none;
+    color: #000000;
+    float: top;
+    text-align: center;
+     
+}
 
 body {
-  font-family: "Century Gothic";
+  font-family:'Open Sans', sans-serif;
   font-size: 15px;
   color: #000000;
     max-width: 650px;
     margin: 20px;
     padding: 20px;
-    border-style: solid;
-    border-color: #800080;
-    background-image: url("http://subtlepatterns.com/patterns/geometry2.png");
+    border-style: double;
+    border-color: #000000;
+    border-width: 5px;
+    background: #00FFFF;
     
 }
 
@@ -18,8 +30,9 @@ header {
 }
 
 h1,h2,h3 {
-    font-family: "EB Garamond";
-    color: #800080;
+    font-family:'Raleway', sans-serif;
+    color: #000000;
+
 }
 
 nav {

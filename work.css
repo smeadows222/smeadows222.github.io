@@ -1,0 +1,62 @@
+/* work.css */
+
+.top{
+    
+ background-color: #00FFFF;
+    height: 50px;
+    width: 692px;
+    margin-top: 60px;
+    margin-left: 29px;
+    float: top;
+    border-style:double;
+    border-color: #000000;
+    border-width: 5px;  
+    
+}
+
+nav{
+ 
+    margin-left: 250px;
+    margin-top: 20px;
+    font-family: "Helvetica";
+    text-decoration: none;
+    color: #000000;
+    float: left;   
+    
+}
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  color: #00FFFF;
+    background-color: #000000;
+        margin-left: 10px;
+    padding-left: 15px;
+}
+
+header {
+    text-align: center;
+}
+
+h1,h2,h3 {
+    font-family:'Raleway', sans-serif;
+    color: #00FFFF;
+    text-align: left;
+    margin-left: 30px;
+}
+
+nav {
+    color: #0000ff;
+    text-align: center;
+    text-decoration: none;
+}
+
+.foot{
+ 
+   font-family: "Helvetica";
+    font-size: 15px;
+    color: #FFFFFF;
+    margin-left: 325px;
+   
+}
